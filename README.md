@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🙋‍♀️ Pratiksha Dattatray Dolas
 
-<!--
-**Pratiksha-dolas/Pratiksha-dolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE in Computer Engineering  
+💻 Front-End Web Developer  
+🌐 Skills: HTML | CSS | JavaScript  
+📍 Manchar, Pune  
+📬 Email: dolaspratiksha77@gmail.com  
+🔗 [My Portfolio Website](https://your-netlify-link.netlify.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+- **Personal Portfolio Website** – Built using HTML, CSS, and JavaScript
+
+---
+
+🌱 I’m currently learning advanced JavaScript and exploring Front-End frameworks like React.
